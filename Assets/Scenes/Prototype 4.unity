@@ -481,7 +481,7 @@ MonoBehaviour:
   enemy: {fileID: 3875689272290928281, guid: 4f9fab513da2ddb429a94f13f6b64d36, type: 3}
   powerup: {fileID: 4875343534272443497, guid: 367b973e774e8674eae8aeb18b6bb4f6, type: 3}
   spawnRange: 9
-  waveCount: 0
+  waveCount: 5
   enemyCount: 0
 --- !u!4 &1228293802
 Transform:
